@@ -1,5 +1,6 @@
 # playlist BSstation (pemutar video)
 #cara kerja program dan cara aplikasi bekerja
+
 pada saat program pertama dijalankan maka akan muncul tampilan seperti dibawah ini
 
 ======================================================
