@@ -1,5 +1,5 @@
 # playlist BSstation (pemutar video)
-#cara kerja program dan cara aplikasi bekerja
+# cara kerja program dan cara aplikasi bekerja
 
 pada saat program pertama dijalankan maka akan muncul tampilan seperti dibawah ini
 
@@ -19,10 +19,10 @@ dan jika ingin memutarnya maka kita mengimputkan nama yg ada di playlist nya, ji
 lalu kita juga bisa melihat history anime apa saja yang telah kita tonton
 dan jika kita sudah selesai menonton anime nya, kita bisa menghapusnya dari playlist kita.
 
-#fungsihonalitas program
+# fungsihonalitas program
 program  ini dapat befungsi untuk kita bisa menonton anime dengan cara menambahkan anime yang tersedia diplaylist. 
 
-#output program
+# output program
 
 saat pertama program di jalankan 
 ======================================================
