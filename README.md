@@ -36,7 +36,7 @@ saat pertama program di jalankan
 ======================================================
 Silahkan pilih yang mana :
 
-ketika user memilih 1, maka output yang akan keluar seperti dibawah ini
+# ketika user memilih 1, maka output yang akan keluar seperti dibawah ini
 
 Silahkan pilih yang mana : 1
 ======================================
@@ -57,9 +57,9 @@ dan jika telah di inputkan maka akan muncul output seperti dibawah ini:
 Silahkan Masukkan Anime Yang Ingin Ditambahkan Ke Dalam Playlist:4
 Anime 4 telah ditambahkan ke playlist
 
-pada bagian diatas saya mengimputkan anime boku no hero yang berada di no 4. dan haikyuu yang berada di no 6
+# pada bagian diatas saya mengimputkan anime boku no hero yang berada di no 4. dan haikyuu yang berada di no 6
 
-dan pada menu kedua user bisa menghapus anime yang ada di playlist kita bisa dilihat pada contoh dibawah 
+# dan pada menu kedua user bisa menghapus anime yang ada di playlist kita bisa dilihat pada contoh dibawah 
 ======================================================
 |             Selamat datang di BSstation            |
 ======================================================
@@ -77,7 +77,7 @@ Silahkan pilih yang mana : 2
 2. Boku No Hero
 ketikan nama anime yang ingin dihapus, nama anime harus ada diplaylist :
 
-ketika user telah mengetikan nama anime yang ingin dihapus maka output nya akan seperti ini
+# ketika user telah mengetikan nama anime yang ingin dihapus maka output nya akan seperti ini
 
 ======================================
 |           Anime Yang Tersedia      |
@@ -88,7 +88,7 @@ ketikan nama anime yang ingin dihapus, nama anime harus ada diplaylist : Haikyuu
 Berhasil menghapus anime 
 ===========================
 
-dan ketika kita melihat playlist nya maka anime yang telah kita hapus telah tidak ada
+# dan ketika kita melihat playlist nya maka anime yang telah kita hapus telah tidak ada
 
 ============================================
 |             Daftar Playlist               |
@@ -98,7 +98,8 @@ dan ketika kita melihat playlist nya maka anime yang telah kita hapus telah tida
 ======================================
 1. Boku No Hero
 
-lalu selanjutnya output pemutaran playlist
+# lalu selanjutnya output pemutaran playlist
+
 ============================================
 |             Daftar Playlist               |
 ============================================
@@ -119,7 +120,7 @@ Episode 1 telah selesai, apakah ingin melanjutkan? : y
 Sedang Menonton Anime  Boku No Hero
 Episode 2 telah selesai, apakah ingin melanjutkan? : 
 
-pada bagian di atas ketika durasi anime telah habis maka program akan menanyakan apakah ingin melanjutkan episode selanjutnya. lalu jika sudah berada di episode akhir maka program akan kembali ke awal
+# pada bagian di atas ketika durasi anime telah habis maka program akan menanyakan apakah ingin melanjutkan episode selanjutnya. lalu jika sudah berada di episode akhir maka program akan kembali ke awal
 
 ingin melakukan apa? 1
 Masukan Nama Anime Yang Ingin Ditonton: Boku No Hero
@@ -160,7 +161,7 @@ Sedang Menonton Anime  Boku No Hero
 Episode 12 telah selesai
 Episode Telah Habis
 
-dan kerika kita telah selesai menonton anime nya kita  bisa melihat nya di history playlist , bisa dilihat contoh di bawah ini 
+# dan kerika kita telah selesai menonton anime nya kita  bisa melihat nya di history playlist , bisa dilihat contoh di bawah ini 
 ======================================================
 |             Selamat datang di BSstation            |
 ======================================================
@@ -175,5 +176,5 @@ Histori Playlsit.
 | 1. Boku No Hero             |12 Eps|
 
 
-#elemen penting dalam program 
+# elemen penting dalam program 
 
